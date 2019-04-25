@@ -30,7 +30,7 @@ We've noticed that our current process workflow has greatly boosted our efficien
  * Integrate communication between the users of the system
    - [Flask application](app/app.py)
  * Implement the database to store user/company data
-   - [Database schema](/deliverable/artifact/schema.md)
+   - [Database schema](/deliverables/artifact/schema.md)
  * Implement graphs to be dynamically generated based on input from database
    - [Graph code](/app/static/js/graph.js)
  * Launch the application on a server
